@@ -6,8 +6,6 @@ import { HoverEffect } from './ui/card-hover-effect';
 
 function UpComingWebinar() {
 
-
-
     const featuredWebinars = [
         {
             title: 'Understanding Music Theory',
